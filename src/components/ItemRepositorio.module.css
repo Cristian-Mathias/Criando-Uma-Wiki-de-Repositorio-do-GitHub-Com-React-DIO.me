@@ -1,0 +1,27 @@
+h3{
+    font-size: 32px;
+    color: #FAFAFA;
+    display:flex;
+    margin: 5px;
+}
+p{
+    font-size: 16px;
+    color: #FAFAFA60;
+    display:flex;
+   
+}
+a.verRepositorio{
+    color: green;
+    margin: 5px;
+    display:flex;
+}
+a.remover{
+    color: #FF0000;
+    margin: 5px;
+    display:flex;
+}
+.separador{
+    width: 285px;
+    border:1px solid white ;
+    margin: 5px;
+}
